@@ -1,7 +1,11 @@
-
-
 export default function Home() {
   return (
-    <div>태양만세</div>
+    <div>엄준식</div>
   );
 }
+
+
+
+
+
+
